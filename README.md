@@ -11,7 +11,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 
 | Original speech | Transcribed text |
 | --- | --- |
-| audio 1 | bla bla |
+| (https://github.com/user-attachments/assets/79e8151c-516e-4374-8454-783e639d6e1d)| bla bla |
 | audio 2 | bla bla |
 
 https://github.com/user-attachments/assets/79e8151c-516e-4374-8454-783e639d6e1d
