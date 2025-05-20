@@ -140,20 +140,20 @@ This work introduces the first publicly available dataset explicitly designed fo
   </tr>
 </table>
 
-### Female Speaker ID
+### Female Speaker ID 7925
 
 <table>
   <tr>
     <td>
       Ground Truth
       <audio controls>
-        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_real%20%281%29.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_real.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
       F5TTS
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_f5tts.ia.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_f5tts.mp4" type="audio/mpeg">
       </audio>
     </td>
   </tr>
@@ -163,13 +163,13 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
       YourTTS
       <audio controls>
-        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_yourtts.ia.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_yourtts.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
       Fish-Speech
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_fish.mp4" type="audio/mpeg">
       </audio>
     </td>
   </tr>
@@ -179,13 +179,13 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
       ToucanTTS
       <audio controls>
-        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_toucan.ia.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_toucan.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
       XTTS
       <audio controls>
-        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_xtts%20%281%29.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_xtts.mp4" type="audio/mpeg">
       </audio>
     </td>
   </tr>
