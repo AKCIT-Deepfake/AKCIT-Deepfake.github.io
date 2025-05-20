@@ -12,18 +12,18 @@ This work introduces the first publicly available dataset explicitly designed fo
   <tr>
     <td>
       <audio controls>
-        <source src="https://archive.org/details/12287-yourtts/12287_f5tts.mp4#">
+        <source src="https://archive.org/details/12287-yourtts/12287_f5tts.mp4">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="https://archive.org/details/12287-yourtts/12287_fish.mp4#">
+        <source src="https://archive.org/details/12287-yourtts/12287_fish.mp4">
       </audio>
     </td>
   </tr>
       <td>
       <audio controls>
-        <source src="https://archive.org/details/12287-yourtts/12287_fish.mp4#">
+        <source src="https://archive.org/details/12287-yourtts/12287_fish.mp4">
       </audio>
     </td>
   </tr>
