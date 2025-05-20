@@ -118,9 +118,9 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     RealTTS
+     Real
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_real.ia.mp4" type="audio/mpeg">
+        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_real%20%281%29.mp44" type="audio/mpeg">
       </audio>
     </td>
     <td>
@@ -132,7 +132,7 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
      XTTS
       <audio controls>
-        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_xtts.ia.mp4" type="audio/mpeg">
+        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_xtts%20%281%29.mp4" type="audio/mpeg">
       </audio>
     </td>
   </tr>
