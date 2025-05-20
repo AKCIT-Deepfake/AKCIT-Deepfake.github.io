@@ -86,70 +86,57 @@ This work introduces the first publicly available dataset explicitly designed fo
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-     Speaker 7925
-      <audio controls>
-        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/13063_13511_000048-0001.mp4" type="audio/mpeg">
-      </audio>
-    </td>
-    <td>
-     Aproveitando algumas pequenas elevações, já entre um, já entre outro pântano de águas lamancentas e paludosas, de que todo o terreno estava coberto. E de Cerrado Mangue, cujos fugitivos restos ainda hoje vemos bordando o aterrado da Cidade Nova.
-    </td>
-  </tr>
-</table>
 
 
 ## Comparison of models
+### Male Speaker
 
 <table>
   <tr>
     <td>
-     Ground Truth
+      Ground Truth
       <audio controls>
         <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_real%20%281%29.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
-     F5TTS
+      F5TTS
       <audio controls>
         <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_f5tts.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
-      </tr>
+  </tr>
 </table>
 <table>
   <tr>
     <td>
-     YourTTS
+      YourTTS
       <audio controls>
         <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_yourtts.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
-     Fish-Speech
+      Fish-Speech
       <audio controls>
         <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
-          </tr>
+  </tr>
 </table>
 <table>
   <tr>
     <td>
-    ToucanTTS
+      ToucanTTS
       <audio controls>
         <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_toucan.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
-     XTTS
+      XTTS
       <audio controls>
         <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_xtts%20%281%29.mp4" type="audio/mpeg">
       </audio>
     </td>
   </tr>
 </table>
-
 
