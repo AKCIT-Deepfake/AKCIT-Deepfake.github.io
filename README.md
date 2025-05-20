@@ -11,7 +11,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     Speaker 1
+     Speaker 11247
       <audio controls>
         <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/11247_10229_000009-0001%20%281%29.mp4" type="audio/mpeg">
       </audio>
@@ -24,7 +24,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     Speaker 2
+     Speaker 12114
       <audio controls>
         <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12114_10229_000018-0001.mp4" type="audio/mpeg">
       </audio>
@@ -37,7 +37,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     Speaker 3
+     Speaker 12287
       <audio controls>
         <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12287_12742_000020-0001.mp4" type="audio/mpeg">
       </audio>
@@ -50,7 +50,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     Speaker 4
+     Speaker 12626
       <audio controls>
         <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12626_10229_000021-0001.mp4" type="audio/mpeg">
       </audio>
@@ -63,7 +63,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     Speaker 5
+     Speaker 12670
       <audio controls>
         <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12670_13396_000029.mp4" type="audio/mpeg">
       </audio>
@@ -76,7 +76,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     Speaker 6
+     Speaker 13063
       <audio controls>
         <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/13063_13511_000048-0001.mp4" type="audio/mpeg">
       </audio>
@@ -86,7 +86,19 @@ This work introduces the first publicly available dataset explicitly designed fo
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td>
+     Speaker 7925
+      <audio controls>
+        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/13063_13511_000048-0001.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+     Aproveitando algumas pequenas elevações, já entre um, já entre outro pântano de águas lamancentas e paludosas, de que todo o terreno estava coberto. E de Cerrado Mangue, cujos fugitivos restos ainda hoje vemos bordando o aterrado da Cidade Nova.
+    </td>
+  </tr>
+</table>
 
 
 ## Comparison of models
@@ -94,9 +106,9 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     FishTTS
+     Ground Truth
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_real%20%281%29.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
@@ -117,9 +129,9 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-     Real
+     Fish-Speech
       <audio controls>
-        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_real%20%281%29.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
