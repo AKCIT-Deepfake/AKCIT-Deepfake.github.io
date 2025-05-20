@@ -9,11 +9,9 @@ This work introduces the first publicly available dataset explicitly designed fo
 
 ## Real speaker and transcription
 
-| FishTTS               | F5TTS             | YourTTS              |
-|-----------------------|-------------------|----------------------|
 <p>
 <audio controls>
-  <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+ [FishTTS] <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
 </audio>
   
 <audio controls>
