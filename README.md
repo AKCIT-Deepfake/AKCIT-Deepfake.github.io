@@ -57,7 +57,7 @@ This work introduces the first publicly available dataset explicitly designed fo
       </audio>
     </td>
     <td>
-     Os heróis são os miseráveis que tem o que perder de se fora de si, Brederoz. Ali há mais amor horrivel.
+     Ele deitou-se de manso e pôs-se à espera de que a noite avançasse. Tornava-se-lhe o sangue impetuoso de desejos, e na mente devódica passavam perturbadoras miragens sensuais. Levantou-se sorrateiro e, apenas aluminado pela frouxa luz do alcaldeíro de azeite que estava na sala,
     </td>
   </tr>
 </table>
