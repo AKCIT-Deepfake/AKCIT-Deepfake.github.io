@@ -32,11 +32,28 @@ This work introduces the first publicly available dataset explicitly designed fo
   </tr>
 </table>
 
-
- | Transcribed text |
-| --- | --- |
-| | bla bla |
-| audio 2 | bla bla |
+<table>
+  <tr>
+    <td>
+     RealTTS
+      <audio controls>
+        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_real.ia.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+    ToucanTTS
+      <audio controls>
+        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_toucan.ia.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+     XTTS
+      <audio controls>
+        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_xtts.ia.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+  </tr>
+</table>
 
 
 
