@@ -109,9 +109,9 @@ This work introduces the first publicly available dataset explicitly designed fo
   <tr>
     <td>
       <audio controls>
-        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_yourtts.ia.mp4" type="audio/mpeg">
+        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_xtts%20%281%29.mp4" type="audio/mpeg">
       </audio>
-      <p>YourTTS</p>
+      <p>XTTS</p>
     </td>
     <td>
       <audio controls>
@@ -129,9 +129,9 @@ This work introduces the first publicly available dataset explicitly designed fo
     </td>
     <td>
       <audio controls>
-        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_xtts%20%281%29.mp4" type="audio/mpeg">
+        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_yourtts.ia.mp4" type="audio/mpeg">
       </audio>
-      <p>XTTS</p>
+      <p>YourTTS</p>
     </td>
   </tr>
 </table>
@@ -156,9 +156,9 @@ This work introduces the first publicly available dataset explicitly designed fo
   <tr>
     <td>
       <audio controls>
-        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_yourtts.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_xtts.mp4" type="audio/mpeg">
       </audio>
-      <p>YourTTS</p>
+      <p>XTTS</p>
     </td>
     <td>
       <audio controls>
@@ -176,9 +176,9 @@ This work introduces the first publicly available dataset explicitly designed fo
     </td>
     <td>
       <audio controls>
-        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_xtts.mp4" type="audio/mpeg">
+        <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_yourtts.mp4" type="audio/mpeg">
       </audio>
-      <p>XTTS</p>
+      <p>YourTTS</p>
     </td>
   </tr>
 </table>
