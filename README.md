@@ -1,4 +1,4 @@
-# $\color{Blue}{BRSpeech DF}$
+# BRSpeech DF
 A Deep Fake Synthetic Speech Dataset for Portuguese Zero-Shot TTS
 
 ## About it
