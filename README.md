@@ -14,7 +14,7 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
      Speaker 1
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/11247_10229_000009-0001%20%281%29.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
@@ -27,7 +27,7 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
      Speaker 2
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12114_10229_000018-0001.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
@@ -40,7 +40,7 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
      Speaker 3
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12287_12742_000020-0001.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
@@ -53,7 +53,7 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
      Speaker 4
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12626_10229_000021-0001.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
@@ -66,7 +66,7 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
      Speaker 5
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/12670_13396_000029.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
@@ -79,7 +79,7 @@ This work introduces the first publicly available dataset explicitly designed fo
     <td>
      Speaker 6
       <audio controls>
-        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+        <source src="https://ia601900.us.archive.org/17/items/11247-10229-000009-0001-1/13063_13511_000048-0001.mp4" type="audio/mpeg">
       </audio>
     </td>
     <td>
