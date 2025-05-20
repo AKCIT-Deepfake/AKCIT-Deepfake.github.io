@@ -9,7 +9,7 @@ This work introduces the first publicly available dataset explicitly designed fo
 
 ## Real speaker and transcription
 
-| [Speaker 1](https://github.com/user-attachments/assets/852d83b6-03b8-404c-acbf-76a194ea93dd)
+| https://github.com/user-attachments/assets/852d83b6-03b8-404c-acbf-76a194ea93dd
 
  | Transcribed text |
 | --- | --- |
