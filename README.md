@@ -117,23 +117,26 @@ This work introduces the first publicly available dataset explicitly designed fo
         <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_f5tts.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
+      </tr>
+</table>
+<table>
+  <tr>
     <td>
      YourTTS
       <audio controls>
         <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_yourtts.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td>
      Fish-Speech
       <audio controls>
         <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
       </audio>
     </td>
+          </tr>
+</table>
+<table>
+  <tr>
     <td>
     ToucanTTS
       <audio controls>
