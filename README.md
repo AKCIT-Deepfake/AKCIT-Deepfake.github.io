@@ -89,7 +89,58 @@ This work introduces the first publicly available dataset explicitly designed fo
 
 
 ## Comparison of models
-### Male Speaker
+### Male Speaker ID 12287
+
+<table>
+  <tr>
+    <td>
+      Ground Truth
+      <audio controls>
+        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_real%20%281%29.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      F5TTS
+      <audio controls>
+        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_f5tts.ia.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      YourTTS         
+      <audio controls>
+        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_yourtts.ia.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      Fish-Speech
+      <audio controls>
+        <source src="https://ia600709.us.archive.org/14/items/12287-yourtts/12287_fish.ia.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      ToucanTTS
+      <audio controls>
+        <source src="https://ia800709.us.archive.org/14/items/12287-yourtts/12287_toucan.ia.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      XTTS
+      <audio controls>
+        <source src="https://ia800408.us.archive.org/14/items/12287-real-1/12287_xtts%20%281%29.mp4" type="audio/mpeg">
+      </audio>
+    </td>
+  </tr>
+</table>
+
+### Female Speaker ID
 
 <table>
   <tr>
@@ -139,4 +190,5 @@ This work introduces the first publicly available dataset explicitly designed fo
     </td>
   </tr>
 </table>
+
 
