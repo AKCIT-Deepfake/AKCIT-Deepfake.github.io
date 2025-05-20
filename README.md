@@ -12,13 +12,12 @@ This work introduces the first publicly available dataset explicitly designed fo
   <tr>
     <td>
       <audio controls>
-        <source src="https://github.com/AKCIT-Deepfake/AKCIT-Deepfake.github.io/blob/main/12287_f5tts.mp4">
+        <source src="https://archive.org/details/12287-yourtts/12287_f5tts.mp4#">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
+        <source src="https://archive.org/details/12287-yourtts/12287_fish.mp4#">
       </audio>
     </td>
   </tr>
