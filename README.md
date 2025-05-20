@@ -70,7 +70,7 @@ This work introduces the first publicly available dataset explicitly designed fo
       </audio>
     </td>
     <td>
-     Tudo passara, na dissolvência dos sonhos, na voragem dos anos. Ilusões patrióticas e entusiasmo pelos gozos instáveis tragaram-os o tempo impassivelmente.
+     Tudo passara, na dissolvência dos sonhos, na voragem dos anos. Ilusões patrióticas e entusiasmo pelos gozos instáveis tragaram-os o tempo impassivelmente.                                                              
     </td>
   </tr>
 </table>
