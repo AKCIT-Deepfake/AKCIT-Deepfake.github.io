@@ -145,50 +145,44 @@ This work introduces the first publicly available dataset explicitly designed fo
 <table>
   <tr>
     <td>
-      Ground Truth
       <audio controls>
         <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_real.mp4" type="audio/mpeg">
       </audio>
+      <p>Ground Truth</p>
     </td>
     <td>
-      F5TTS
       <audio controls>
         <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_f5tts.mp4" type="audio/mpeg">
       </audio>
+      <p>F5TTS</p>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td>
-      YourTTS
       <audio controls>
         <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_yourtts.mp4" type="audio/mpeg">
       </audio>
+      <p>YourTTS</p>
     </td>
     <td>
-      Fish-Speech
       <audio controls>
         <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_fish.mp4" type="audio/mpeg">
       </audio>
+      <p>Fish-Speech</p>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td>
-      ToucanTTS
       <audio controls>
         <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_toucan.mp4" type="audio/mpeg">
       </audio>
+      <p>ToucanTTS</p>
     </td>
     <td>
-      XTTS
       <audio controls>
         <source src="https://ia600709.us.archive.org/3/items/7925-yourtts/7925_xtts.mp4" type="audio/mpeg">
       </audio>
+      <p>XTTS</p>
     </td>
   </tr>
 </table>
-
-
